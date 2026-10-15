@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.asm
+.vscode
+/src/kern/kfs.raw
+/src/**/*.txt
+/user/bin/*
+/src/kern/*.nfs*
